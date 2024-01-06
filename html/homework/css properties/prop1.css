@@ -1,0 +1,21 @@
+h1 {
+    color: blue;
+}
+
+#overflow {
+    height: 100px;
+    background-color: rgb(255, 170, 0);
+    width: 200px;
+    /* overflow: auto; */
+    /* overflow: scroll; */
+    overflow: hidden;
+}
+
+#visibility {
+    height: 200px;
+    width: 500px;
+    background-color: brown;
+    /* visibility: hidden; */
+    /* display: none; */
+    opacity: 0.3;
+}
